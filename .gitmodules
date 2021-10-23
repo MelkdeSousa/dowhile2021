@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = git@github.com:MelkdeSousa/nlw-dowhile-2021-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:MelkdeSousa/nlw-dowhile-2021-frontend.git
